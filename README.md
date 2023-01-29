@@ -3,7 +3,7 @@ Calculator program written in JAVA with all basic functions.
 
 This Calculator program is solely written by Ayush.
 
-This calculator is purely written in java with all the basic functions like +, -, /, *,  and more. This prgram's UI isone of my favourite aand you'll love it too. You can modify it as your need or wish.
+This calculator is purely written in java with all the basic functions like +, -, /, *,  and more. This prgram's UI is one of my favourite and you'll love it too. You can modify it as your need or wish.
 
 Features of the program:
 * Contails all basic fuctions.
@@ -24,11 +24,12 @@ Deails about code:
 * Very short code.
 
 Check the code:
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
 
-public class MyFrame extends JFrame implements ActionListener, KeyListener{
+	import java.awt.*;
+	import java.awt.event.*;
+	import javax.swing.*;
+
+	public class MyFrame extends JFrame implements ActionListener, KeyListener{
 
 	private static final long serialVersionUID = 1L;
 	
@@ -283,4 +284,10 @@ public class MyFrame extends JFrame implements ActionListener, KeyListener{
 
 	disp.setText(n1 + " " + op + " " + n2);
 	}
-}
+	}
+
+Issues:
+* I did not find any issue but there may be some.
+
+Conclusion:
+You can download the JAR and exe file from release section. you can use this code as long as you don't consider it as your own work.
