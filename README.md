@@ -6,7 +6,7 @@ This Calculator program is solely written by Ayush.
 This calculator is purely written in java with all the basic functions like +, -, /, *,  and more. This prgram's UI is one of my favourite and you'll love it too. You can modify it as your need or wish.
 
 Features of the program:
-* Contails all basic fuctions.
+* Contains all basic fuctions.
 * Awesome UI.
 * Completed in 260 lines only.
 * And many more!
