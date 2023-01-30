@@ -3,7 +3,7 @@ Calculator program written in JAVA with all basic functions.
 
 This Calculator program is solely written by Ayush.
 
-This calculator is purely written in java with all the basic functions like +, -, /, *,  and more. This prgram's UI is one of my favourite and you'll love it too. You can modify it as your need or wish.
+This calculator is purely written in java with all the basic functions like +, -, /, *,  and more. This program's UI is one of my favorites and you'll love it too. You can modify it as your need or wish.
 
 Features of the program:
 * Contains all basic functions.
